@@ -1,0 +1,135 @@
+cv:
+  name: Liam A. Gómez-Pedraza
+  label: Artistic Director, Laboratorio Preliminal
+  email: "[TBD]"
+  location: San Juan, Puerto Rico
+  image: ""
+  summary: ""
+
+  social_networks: []
+
+  sections:
+    Education:
+      - institution: Trinity Laban Conservatoire of Music and Dance
+        location: London, United Kingdom
+        area: Creative Practice (Collaborative Arts)
+        studyType: MPhil/PhD
+        start_date: 2026
+        end_date: "[TBD]"
+        highlights:
+          - Supervised by Prof. Jonathan Owen Clark and Dr. Naomi Lefebvre Sell.
+
+      - institution: University of Puerto Rico, Río Piedras
+        location: San Juan, Puerto Rico
+        area: Cultural Agency and Administration
+        studyType: MA
+        start_date: "[TBD]"
+        end_date: "[TBD]"
+        highlights:
+          - Mellon MAGAC Graduate Research Fellow.
+
+    Fellowships and Awards:
+      - title: Mellon MAGAC Graduate Research Fellowship
+        date: "[TBD]"
+        awarder: University of Puerto Rico, Río Piedras
+        highlights: []
+
+      - title: Scholar in Residence
+        date: "2022–2024"
+        awarder: "[TBD]"
+        highlights: []
+
+    Artistic Work:
+      - title: Ritual
+        category: Laboratorio Preliminal production
+        year: 2026
+        highlights:
+          - Direction and choreography by Liam A. Gómez-Pedraza.
+          - "[Additional credits TBD]"
+
+      - title: Moscas y Milagritos
+        category: "[TBD]"
+        year: "[TBD]"
+        highlights:
+          - "[Credits TBD]"
+
+      - title: ABISMAL
+        category: Laboratorio Preliminal production
+        year: 2025
+        highlights:
+          - Direction and choreography by Liam A. Gómez-Pedraza.
+          - "[Additional credits TBD]"
+
+      - title: Preliminal
+        category: Laboratorio Preliminal production
+        year: 2023
+        highlights:
+          - Direction and choreography by Liam A. Gómez-Pedraza.
+          - "[Additional credits TBD]"
+
+      - title: "(Des)Encuentro"
+        category: Pasos en Las Tablas
+        year: "[TBD]"
+        highlights: []
+
+      - title: Urinetown
+        category: Pasos en Las Tablas
+        year: "[TBD]"
+        highlights: []
+
+    Publications:
+      - title: "[ARTICLE TITLE IN TANGIBLE TERRITORY]"
+        publisher: Tangible Territory
+        releaseDate: 2026
+        highlights:
+          - Issue 9.
+
+      - title: "[ARTICLE TITLE IN INGENIOS]"
+        publisher: Ingenios, Universidad de Puerto Rico
+        releaseDate: 2023
+        highlights: []
+
+      - title: "[ABSTRACT TITLE TBD]"
+        publisher: Performance Research
+        releaseDate: Forthcoming
+        highlights:
+          - Vol. 32. Abstract under review.
+
+    Teaching:
+      - company: Pasos Academia de Baile
+        position: Instructor, Contemporary Dance and Performance Art
+        location: San Juan, Puerto Rico
+        start_date: "[TBD]"
+        end_date: "[TBD]"
+        highlights: []
+
+    Cultural Management:
+      - company: Encuentro de Gestión Cultural Puerto Rico
+        position: Coordinator
+        location: San Juan, Puerto Rico
+        start_date: 2024
+        end_date: 2024
+        highlights:
+          - 2024 edition, co-organized by the University of Puerto Rico, Río Piedras, and the Municipality of San Juan.
+          - Thirty-one volunteers; large-scale mixed-format programming.
+
+      - company: Encuentro de Gestión Cultural Puerto Rico
+        position: Programming and Logistics
+        location: San Juan, Puerto Rico
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - 2022 edition.
+
+    Service:
+      - "[TBD]"
+
+    Languages:
+      - language: Spanish
+        fluency: Native
+      - language: English
+        fluency: Fluent
+      - language: Russian
+        fluency: "[TBD]"
+      - language: Italian
+        fluency: "[TBD]"
