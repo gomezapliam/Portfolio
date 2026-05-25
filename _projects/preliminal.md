@@ -4,7 +4,7 @@ title: Preliminal
 description: "[TAGLINE TBD]"
 img: assets/img/productions/preliminal_card.jpg
 importance: 3
-category: laboratorio preliminal
+category: productions
 ---
 
 **Year:** 2023

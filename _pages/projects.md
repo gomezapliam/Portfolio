@@ -1,11 +1,11 @@
 ---
 layout: page
-title: productions
-permalink: /productions/
-description: Three productions by Laboratorio Preliminal.
+title: portfolio
+permalink: /portfolio/
+description: Creative work spanning performance, choreography, video, installation, and research.
 nav: true
 nav_order: 2
-display_categories: [laboratorio preliminal]
+display_categories: [productions, solo works, collaborations, research]
 horizontal: false
 ---
 

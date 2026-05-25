@@ -4,7 +4,7 @@ title: ABISMAL
 description: "[TAGLINE TBD]"
 img: assets/img/productions/abismal_card.jpg
 importance: 2
-category: laboratorio preliminal
+category: productions
 ---
 
 **Year:** 2025

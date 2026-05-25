@@ -4,7 +4,7 @@ title: Ritual
 description: "[TAGLINE TBD]"
 img: assets/img/productions/ritual_card.jpg
 importance: 1
-category: laboratorio preliminal
+category: productions
 ---
 
 **Year:** 2026
